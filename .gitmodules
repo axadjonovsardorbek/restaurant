@@ -1,0 +1,12 @@
+[submodule "auth_service"]
+	path = auth_service
+	url = git@github.com:axadjonovsardorbek/auth_service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:axadjonovsardorbek/api-gateway.git
+[submodule "reservation_service"]
+	path = reservation_service
+	url = git@github.com:axadjonovsardorbek/reservation_service.git
+[submodule "payment_service"]
+	path = payment_service
+	url = git@github.com:axadjonovsardorbek/payment_service.git
